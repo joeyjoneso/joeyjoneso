@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joeyjoneso
+- 👀 I’m interested in blockchain.
+- 🌱 I’m currently learning javascript.
